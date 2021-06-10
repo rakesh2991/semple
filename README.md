@@ -1,0 +1,1 @@
+l you need to do is edit that file with your favorite editor and change the url = setting to your new location. Assuming the new repository is correctly set up and you have your URL right, you'll be happily pushing and pulling to and from your new remote location.
